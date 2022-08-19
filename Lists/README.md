@@ -1,9 +1,9 @@
 Compare two lists given as input and returns an specific output:
 
-- *Sublista:* The first list is contained on the second.\
-- *Superlista:* The second list is contained on the first.\
-- *Idênticas:* Both list are contained on themselves.\
-- *Inválida:* None of the options above.\
+- *Sublista:* The first list is contained on the second.
+- *Superlista:* The second list is contained on the first.
+- *Idênticas:* Both list are contained on themselves.
+- *Inválida:* None of the options above.
 
 #### Example:
 
