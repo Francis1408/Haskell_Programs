@@ -9,13 +9,13 @@ Programs that I developed in [Haskell](https://www.haskell.org/) in order to hav
 5. [Perfect](https://github.com/Francis1408/Haskell_Programs/tree/main/Perfect)
 6. [Binary](https://github.com/Francis1408/Haskell_Programs/tree/main/Binary)
 7. [Distinct](https://github.com/Francis1408/Haskell_Programs/tree/main/Distinct)
-8. [Disjoint](https://github.com/Francis1408/Haskell_Programs/tree/main/Disjoint)
-9. [Palindrome](https://github.com/Francis1408/Haskell_Programs/tree/main/Palindrome)
-10.[sumPartials](https://github.com/Francis1408/Haskell_Programs/tree/main/sumPartials)
-11.[Shift](https://github.com/Francis1408/Haskell_Programs/tree/main/Shift)
-12.[Intercalate](https://github.com/Francis1408/Haskell_Programs/tree/main/Intercalate)
-13.[Change](https://github.com/Francis1408/Haskell_Programs/tree/main/Change)
-14.[Lists](https://github.com/Francis1408/Haskell_Programs/tree/main/Lists)
+8. [Disjoint](https://github.com/Francis1408/Haskell_Programs/tree/main/Disjoint)\
+9. [Palindrome](https://github.com/Francis1408/Haskell_Programs/tree/main/Palindrome)\
+10.[sumPartials](https://github.com/Francis1408/Haskell_Programs/tree/main/sumPartials)\
+11.[Shift](https://github.com/Francis1408/Haskell_Programs/tree/main/Shift)\
+12.[Intercalate](https://github.com/Francis1408/Haskell_Programs/tree/main/Intercalate)\
+13.[Change](https://github.com/Francis1408/Haskell_Programs/tree/main/Change)\
+14.[Lists](https://github.com/Francis1408/Haskell_Programs/tree/main/Lists)\
 
 #### How to run
 
